@@ -7,7 +7,7 @@
 | ------- | ------- |
 | 0 | |
 | 1 | |
-| 2 | |
+| 2 | Personal Data Processing and Magnets |
 | 3 | |
 | 4 | |
 | 5 | United States Dollars |
