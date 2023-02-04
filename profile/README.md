@@ -6,12 +6,12 @@
 | # | Department |
 | ------- | ------- |
 | 0 | |
-| 1 | |
-| 2 | Data Processing / Magnets |
-| 3 | |
+| 1 | Poop |
+| 2 | |
+| 3 | Poop |
 | 4 | |
 | 5 | United States Dollars |
-| 6 | Denial of Service |
+| 6 | Health |
 | 7 | |
 | 8 | |
 | 9 | |
