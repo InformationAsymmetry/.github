@@ -1,1 +1,17 @@
-## Do you have a mission for me?
+# Technology Missionary
+
+## Phone Book
+> Welcome to Technology Missionary, your call will be answered in the order it was recieved in.
+
+| Dial Pad ||
+| ------- | ------- |
+| 0 | |
+| 1 | |
+| 2 | |
+| 3 | |
+| 4 | |
+| 5 | How to make a quick buck. |
+| 6 | |
+| 7 | |
+| 8 | |
+| 9 | |
