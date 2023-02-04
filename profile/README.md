@@ -10,8 +10,8 @@
 | 2 | |
 | 3 | |
 | 4 | |
-| 5 | How to make a quick buck. |
-| 6 | |
+| 5 | United States Dollars |
+| 6 | Denial of Service |
 | 7 | |
 | 8 | |
 | 9 | |
