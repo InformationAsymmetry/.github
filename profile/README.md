@@ -1,17 +1,17 @@
 # Technology Missionary
 
 ## Phone Book  
-> (🦉)) - Welcome to Technology Missionary, your call will be answered in the order it was recieved in.
+> _ - Welcome to Technology Missionary, your call will be answered in the order it was recieved in.
 
-| # | Department |
-| ------- | ------- |
-| 0 | |
-| 1 | Poop |
-| 2 | |
-| 3 | Poop |
-| 4 | |
-| 5 | United States Dollars |
-| 6 | Health |
-| 7 | |
-| 8 | |
-| 9 | |
+| # | Department | Status |
+| ------- | ------- | ------- |
+| 0 | Interesting | {{ }} |
+| 1 | Poop 1 |
+| 2 | Self Fufiling Prophecies | {{ }} |
+| 3 | Poop 2 | |
+| 4 | Covode | { } --> +|- |
+| 5 | United States Dollars | \|\|\|?+ |
+| 6 | Health | -+?-+ |
+| 7 | The Satan 1 | |
+| 8 | The Satan 2 | |
+| 9 | The Satan 3 | |
