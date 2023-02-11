@@ -1,5 +1,7 @@
 # Technology Missionary 
 🪅: don't be a Piñata, go for cowboy style
+🏴‍☠️: what the world wants, the world gets
+📙: if enough people believe it, it's true
 
 ## Phone Book  
 > _ - Welcome to Technology Missionary, your call will be answered in the order it was recieved in.
