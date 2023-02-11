@@ -1,4 +1,5 @@
-# Technology Missionary
+# Technology Missionary 
+🪅: don't be a Piñata, go for cowboy style
 
 ## Phone Book  
 > _ - Welcome to Technology Missionary, your call will be answered in the order it was recieved in.
