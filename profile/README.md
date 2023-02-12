@@ -13,7 +13,7 @@
 | 1 | Extreme Information Asymmetry Data Analysis {{ }} | |
 | 2 | Key Performance Indicators |  |
 | 3 | Self Fufiling Prophecies | {{ }} |
-| 4 |  | { } --> +|- |
+| 4 | Apologetics | { } --> +|- |
 | 5 | United States Dollars | \|\|\|?+ |
 | 6 | Liability | -+?-+ |
 | 7 | The Satan 1 | |
