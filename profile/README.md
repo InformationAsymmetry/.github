@@ -10,11 +10,11 @@
 
 | # | Department | Status |
 | ------- | ------- | ------- |
-| 0 | Keyword Weights and Directionality | ~ |
-| 1 | Self Similiarizing Belief Systems (Quantization / Evangelicism) | + |
+| 0 | Keyword Adjustments for Salience / Magnitude | ~ |
+| 1 | Self Similiarizing Systems (Quantization / Evangelicism) | + |
 | 2 | Interesting | {#--> #[?+~] |
-| 3 | Exigisis/Phenomenological Copy Edits and Naming Convention Changes | {{-}}... _+.. ?+ \|\| |
-| 4 | Extreme Information Asymmetry Data Analysis | {{ o o }} |
+| 3 | Exegesis/Phenomenological Copy Edits and Naming Convention Changes | {{-}}... _+.. ?+ \|\| |
+| 4 | Extreme Information Asymmetry Data | {{ o o }} |
 | 5 | United States Dollars | - |
 | 6 | Liability | .+?+ |
 | 7 | The Satan 1 | つ |
