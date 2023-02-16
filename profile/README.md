@@ -17,7 +17,7 @@
 | 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | DOJ |   |
 | 4 | Extreme Information Asymmetry Data | DPW | |
 | 5 | United States Dollars | ~ | |
-| 6 | Credentialed Evaluation Reports | ~ | |
+| 6 | Credentialed Evaluation Reports | ~ | {👔} |
 | 7 | Hueristic Liquidity | DOC |  |
 | 8 | Information Transfer Sentiment Artifacts | DOR |  |
 | 9 | Social Infusions with High Delta | DOE |  |
