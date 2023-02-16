@@ -11,13 +11,13 @@
 
 | # | Subject | Department | Status |
 | ------- | ------- | ------- | ------- |
-| 0 | Keyword Adjustments for Salience / Magnitude | DOE | 学 |
-| 1 | Self-Similiarizing Systems (Quantization / Evangelicism) | HUD | 家 |
-| 2 | Social Vectors | DOI |  {#--> #[?+~] |
-| 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | DOJ | {{-}}... _+.. ?+ \|\| 在 |
+| 0 | Keyword Adjustments for Salience / Magnitude | DOE |  |
+| 1 | Self-Similiarizing Systems (Quantization / Evangelicism) | HUD |  |
+| 2 | Social Vectors | DOI |  |
+| 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | DOJ |   |
 | 4 | Extreme Information Asymmetry Data | DPW | |
 | 5 | United States Dollars | DOS | - |
-| 6 | Credentialed Evaluation | DOEE | .+?+ |
-| 7 | Hueristic Liquidity | DOC | 笛 |
-| 8 | Information Transfer Sentiment Artifacts | DOR | 信 |
-| 9 | Social Infusions with High Delta | The State Department | 气 |
+| 6 | Credentialed Evaluation | DOEE | |
+| 7 | Hueristic Liquidity | DOC |  |
+| 8 | Information Transfer Sentiment Artifacts | DOR |  |
+| 9 | Social Infusions with High Delta | The State Department |  |
