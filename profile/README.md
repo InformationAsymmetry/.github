@@ -20,4 +20,4 @@
 | 6 | Liability | DOJ | .+?+ |
 | 7 | Hueristic Liquidity | DOC | 笛 |
 | 8 | Information Transfer Sentiment Artifacts | DOR | 信 |
-| 9 | Performant Election Schemes | The State Department | 气 |
+| 9 | Social Infusions with High Delta | The State Department | 气 |
