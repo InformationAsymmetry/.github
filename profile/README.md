@@ -16,7 +16,7 @@
 | 2 | Social Vectors | The State Department | |
 | 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | DOJ |   |
 | 4 | Extreme Information Asymmetry Data | DPW | |
-| 5 | Solvent Infrastructure |  | |
+| 5 | Consumability of Infrastructure | 🎉 | |
 | 6 | Credentialed Evaluation Reports | ~ |  |
 | 7 | Hueristic Path of Least Resistance | DOC |  |
 | 8 | Information Transfer Heuristic Artifacts | DOR |  |
