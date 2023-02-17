@@ -6,17 +6,17 @@
 * 🌈: information transfer
 * 🎉: GitHub / API
 
-## Phone Book  
+## Graph
 > 👔 - Welcome to Technology Missionary, your call will be answered in the order it was recieved in.
 
-| # | Subject | { TechnologyMissionary } --> { staticStatic } --> United States Department | Status |
+| # | Subject | Resource { Location: getOrganization("staticStatic").getNode( $input ) } | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | Keyword Adjustments for Salience / Magnitude | USCIS |  |
 | 1 | Self-Similiarizing Systems (Quantization / Evangelism) | HUD |  |
 | 2 | Social Vectors | The State Department | |
 | 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | DOJ |   |
 | 4 | Extreme Information Asymmetry Data | DPW | |
-| 5 | Consumability of Infrastructure | 🎉 | |
+| 5 | Consumability of Infrastructure | | |
 | 6 | Credentialed Evaluation Reports | ~ |  |
 | 7 | Hueristic Path of Least Resistance | DOC |  |
 | 8 | Information Transfer Heuristic Artifacts | DOR |  |
