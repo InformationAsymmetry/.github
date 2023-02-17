@@ -1,4 +1,4 @@
-# Technology Missionary 
+# Technology Copy
 
 * 💻: what the world wants, the world gets
 * 🩰: if enough people believe it, it's true
@@ -7,9 +7,9 @@
 * 🎉: GitHub / API
 
 ## Graph
-> 👔 - Welcome to Technology Missionary, your call will be answered in the order it was recieved in.
+> 👔 - Welcome to Technology Copy, your call will be answered in the order it was recieved in.
 
-| # | Subject | Resource { Location: getOrganization("staticStatic").getNode( $input ) } | Status |
+| # | Subject | Resource Location | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | Keyword Adjustments for Salience / Magnitude | USCIS |  |
 | 1 | Self-Similiarizing Systems (Quantization / Evangelism) | HUD |  |
