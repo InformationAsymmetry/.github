@@ -1,4 +1,4 @@
-# Technology Copy
+# Technology-Edit
 
 * 💻: what the world wants, the world gets
 * 🩰: if enough people believe it, it's true
@@ -7,7 +7,7 @@
 * 🎉: GitHub / API
 
 ## Graph
-> 👔 - Welcome to Technology Copy, your call will be answered in the order it was recieved in.
+> 👔 - Welcome to Technology-Edit, your call will be answered in the order it was recieved in.
 
 | # | Subject | Resource Location | Status |
 | ------- | ------- | ------- | ------- |
