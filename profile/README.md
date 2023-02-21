@@ -1,5 +1,5 @@
-# TechnologyEdit
-> 👔 - Welcome to TechnologyEdit, your call will be answered in the order it was received in.
+# InformationAsymmetry
+> 👔 - Welcome to InformationAsymmetry, your call will be answered in the order it was received in.
 
 ## Emojis
 * 💻: what the world wants, the world gets
