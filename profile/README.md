@@ -9,15 +9,15 @@
 * 🎉: GitHub / API
 
 ## Graph
-| # | Subject | Resource Location | Status |
+| # | Subject | Destination | Status |
 | ------- | ------- | ------- | ------- |
 | 0 | Keyword Adjustments for Salience / Magnitude | USCIS |  |
 | 1 | Self-Similiarizing Systems (Quantization / Evangelism) | HUD |  |
-| 2 | Social Vectors | The State Department | |
+| 2 | Social Vectors | [Judges](https://github.com/InformationAsymmetry/Judges) |  |
 | 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | DOJ |   |
 | 4 | Extreme Information Asymmetry Data | DOR | |
-| 5 | Consumability of Infrastructure | DPW | |
-| 6 | Credentialed Evaluation Reports | ~ |  |
+| 5 | Consumability of Infrastructure | The State Department | |
+| 6 | Credentialed Evaluation Reports |  | 🌈 |
 | 7 | Hueristic Path of Least Resistance |  |  |
 | 8 | Information Transfer Heuristic Artifacts | DOC | 👔 |
-| 9 | Social Infusions with High Delta | DOE |  |
+| 9 | Social Infusions with High Delta | DPW |  |
