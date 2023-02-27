@@ -15,9 +15,9 @@
 | 1 | Self-Similiarizing Systems (Quantization / Evangelism) | HUD |  |
 | 2 | Social Vectors | The State Department | |
 | 3 | Exegesis/Phenomenological Lexicon to Naming Conventions | DOJ |   |
-| 4 | Extreme Information Asymmetry Data | DPW | |
-| 5 | Consumability of Infrastructure | | |
+| 4 | Extreme Information Asymmetry Data | DOR | |
+| 5 | Consumability of Infrastructure | DPW | |
 | 6 | Credentialed Evaluation Reports | ~ |  |
-| 7 | Hueristic Path of Least Resistance | DOC |  |
-| 8 | Information Transfer Heuristic Artifacts | DOR |  |
+| 7 | Hueristic Path of Least Resistance |  |  |
+| 8 | Information Transfer Heuristic Artifacts | DOC | 👔 |
 | 9 | Social Infusions with High Delta | DOE |  |
