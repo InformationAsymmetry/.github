@@ -11,13 +11,13 @@
 ## Table
 | # | Subject | Effort | Destination | Product |
 | ----- | ----- | ------ | ------ | ----- |
-| 0 | Ge Hong | 🟨?+ | zang san fang | 🖥️ |
-| 1 | Ezekial | 🖥️ | Jerimiah | 🖥️ | 
-| 2 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
-| 3 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
-| 4 | Wang Chong | 🌙+ | Leviticus | 🖥️ |
-| 5 | zhang tzu | +🟨 | Wang Chong | 🟨 |
-| 6 | Maming Sheng | \_🖥️ | Ecclesiastes | 🌙 |
-| 7 | Daniel | !🌙;⭐?+ | Wang Chong | 🏆 |
-| 2 | Zhu Xi | 🌙++ | Job | ⭐ |
-| 9 | Joshua | 🟨 | He Yan | +⭐+ |
+| 0 | Ezekial | 🖥️ | Jerimiah | 🖥️ | 
+| 1 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
+| 2 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
+| 3 | Wang Chong | 🌙+ | Leviticus | 🖥️ |
+| 4 | Joshua | 🟨 | He Yan | +⭐+ |
+| 5 | Maming Sheng | \_🖥️ | Ecclesiastes | 🌙 |
+| 6 | Daniel | !🌙;⭐?+ | Wang Chong | 🏆 |
+| 7 | Zhu Xi | 🟨??... ⭐ | Exodus | 🏆 |
+| 8 | Chung Tzu | 🟨?+ | Zang Sanfang | 🖥️ |
+| 9 | Ge Hong | +🟨 | Job | 🟨 |
