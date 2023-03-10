@@ -11,13 +11,13 @@
 ## Table
 | # | Subject | Effort | Destination | Product |
 | ----- | ----- | ------ | ------ | ----- |
-| 0 | Ezekial | 🖥️ | Jerimiah | 🖥️ | 
+| 0 | Ezekial | 🟨 | Isaiah | 🖥️ | 
 | 1 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
 | 2 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
 | 3 | Wang Chong | 🌙+ | Leviticus | 🖥️ |
-| 4 | Joshua | 🟨 | He Yan | +⭐+ |
-| 5 | Ecclesiastes | 🌙 | Job | ⭐ |
-| 6 | Daniel | !🌙;⭐?+ | Wang Chong | 🏆 |
+| 4 | Maming Sheng | 🟨 | He Yan | 🟨 |
+| 5 | Joshua | 🟨 | Lao Tzu | 🌙 |
+| 6 | Ecclesiastes | 🌙 | Job | ⭐ |
 | 7 | Zhu Xi | 🟨??... ⭐ | Exodus | 🏆 |
 | 8 | Chung Tzu | 🟨?+ | Zang Sanfang | 🖥️ |
-| 9 | Ge Hong | 🟨🟨 | Maming Sheng | 🟨 |
+| 9 | Ge Hong | 🟨🟨 | Daniel | 🖥️ |
