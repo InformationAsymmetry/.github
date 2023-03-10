@@ -9,7 +9,7 @@
 * 🏆: gold 
 
 ## Table
-| # | Subject | Status | Destination | Remainder |
+| # | Subject | Effort | Destination | Product |
 | ----- | ----- | ------ | ------ | ----- |
 | 0 | Ge Hong | 🟨?+ | zang san fang | 🖥️ |
 | 1 | Ezekial | 🖥️ | Jerimiah | 🖥️ | 
