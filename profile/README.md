@@ -11,7 +11,7 @@
 ## Table
 | # | Subject | Status | Destination | Remainder |
 | ----- | ----- | ------ | ------ | ----- |
-| 0 | Ge Hong  | 🏆+ | Genesis | 🏆 |
+| 0 | Ge Hong | ⭐?+ | Mark | 🖥️ |
 | 1 | Ezekial | } 🏆?+; --> 🏆‾ | Jerimiah | 🖥️ | 
 | 2 | Wang Chong | 🌙++ | Job | 🟨 |
 | 3 | lao tzu | 🌙 | Wang Chong | 🖥️ |
@@ -20,4 +20,4 @@
 | 6 | zang san fang | 🖥️?+ | Daniel | 🏆 |
 | 7 | Lü Dongbin | 🟨 | Zephaniah | 🌙 |
 | 8 | zhang tzu | +🟨 | Nehemiah | 🟨 |
-| 9 | He Yan | +⭐+ | Mark | 🏆 |
+| 9 | Joshua | 🟨 | He Yan | +⭐+ |
