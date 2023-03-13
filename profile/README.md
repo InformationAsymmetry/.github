@@ -11,11 +11,11 @@
 ## Table
 | # | Subject | Effort | Destination | Product |
 | ----- | ----- | ------ | ------ | ----- |
-| 0 | Ezekial | 🟨 | Isaiah | 🖥️ | 
+| 0 | Xuanxue | ⭐?+ | Isaiah | ...🏆 | 
 | 1 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
 | 2 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
 | 3 | Wang Chong | 🌙+ | Leviticus | 🖥️ |
-| 4 | Maming Sheng | 🟨 | He Yan | 🟨 |
+| 4 | Maming Sheng | 🟨 | Ezekial | 🖥️ |
 | 5 | Joshua | 🟨 | Lao Tzu | 🌙 |
 | 6 | Ecclesiastes | 🌙 | Job | ⭐ |
 | 7 | Zhu Xi | 🟨??... ⭐ | Exodus | 🏆 |
