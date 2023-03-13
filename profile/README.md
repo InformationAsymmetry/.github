@@ -14,10 +14,10 @@
 | 0 | Xuanxue | ⭐?+ | Isaiah | ...🏆 | 
 | 1 | Lü Dongbin | 🟨.. | Zephaniah | +🌙 |
 | 2 | lao tzu | ++⭐++;🟨 | Mark | 🏆 |
-| 3 | Wang Chong | 🌙+ | Leviticus | 🖥️ |
+| 3 | Wang Chong | 🌙+ | Daniel | 🖥️ |
 | 4 | Maming Sheng | 🟨 | Ezekial | 🖥️ |
-| 5 | Joshua | 🟨 | Lao Tzu | 🌙 |
-| 6 | Ecclesiastes | 🌙 | Job | ⭐ |
-| 7 | Zhu Xi | 🟨??... ⭐ | Exodus | 🏆 |
-| 8 | Chung Tzu | 🟨?+ | Zang Sanfang | 🖥️ |
-| 9 | Ge Hong | 🟨🟨 | Daniel | 🖥️ |
+| 5 | Leviticus | 🟨 | Lao Tzu | 🌙 |
+| 6 | Zang Sanfang | 🌙 | Job | ⭐ |
+| 7 | Zhu Xi | ⭐?? | Ecclesiastes | 🏆 |
+| 8 | Chung Tzu | 🟨?+ | Jerimiah | 🖥️ |
+| 9 | Ge Hong | 🟨🟨 | Joshua | 🖥️ |
