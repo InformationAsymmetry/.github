@@ -28,15 +28,15 @@
 
 # 🌙: `zældanz`
 ### 🟨: `mancala`
-## ⭐: [ `shwimbõm`, `funelle`, `saraiso`]
+## ⭐: [ `swa sābõm`, `swomzeih`, `zelSqö;rih`]
 ### 🏆: `krunk`
 
 -----
 🖥️: `Sw[[{ih}, ö|), [ā], ê] zel+, zel?_ | ze+]%`
-> Swa iháhoo ehelzel zeze
+> Swa.. iháhoo ehelzel |zeze
 
 ...
 ``` 
 %^ The Swizzle ^%
 ```
-* `Sw[i, ö, ā, ê]+[zel, ze]%`
+* `Sw[i, ö, ā, ê]+[zel, ze]%... `
