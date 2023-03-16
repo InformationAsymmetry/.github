@@ -2,6 +2,7 @@
 > 🖥️ - Welcome to InformationAsymmetry, your call will be answered in the order it was received in.
 
 ## Gerunds
+* diagonal: [ `shwimbom` ]
 * filter: `mancala`
 * informal: `bokbok`
 * formal: `zelnbrae`
