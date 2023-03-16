@@ -1,8 +1,8 @@
 
 | Name | Description | Status |
 | ------ | ------ | ----- |
-| Blame | From Github | 🐙+ |
-| ExtremeAsymmetry |  | 🧢🎧?+ |
-| J.O.S.H. | Just Open Source Hierarchy |  |
-| The Bow | ~ | 🌎 |
+| ExtremeAsymmetry | From Github | 🌎?? |
+| The Bow | ~ | 🧢🎧?+ |
+| Blame | [ IA ] | 🐙+ |
+| J.O.S.H. | Just Open Source Hierarchy | 🍀 |
 | World | Inbound Marketing Channels | 📚 |
