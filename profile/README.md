@@ -23,8 +23,8 @@
 | 9 | Ge Hong | 🟨🟨 | Joshua | 🖥️ |
 
 ## Gerunds
-# namingConvention: `swizzle`
-#### formal: `zelnbrae`
-### filter: `mancala`
-### informal: `kobkob`
-# diagonal: [ `shwimbõm`, `|elefun_` ]
+# formal: `zældanz`
+### diagonal: `mancala`
+## informal: [ `shwimbõm`, `|elefun_`]
+### namingConvention: `swizzle`
+### filter: `krunk`
