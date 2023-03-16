@@ -1,13 +1,6 @@
 # InformationAsymmetry
 > 🖥️ - Welcome to InformationAsymmetry, your call will be answered in the order it was received in.
 
-## Gerunds
-* diagonal: [ `shwimbom` ]
-* filter: `mancala`
-* informal: `bokbok`
-* formal: `zelnbrae`
-* namingConvention: `swizzle`
-
 ## Emojis
 * 🖥️: gotta keep the science flowing
 * 🌙: filter 
@@ -28,3 +21,10 @@
 | 7 | Zhu Xi | ⭐?? | Ecclesiastes | 🏆 |
 | 8 | Chung Tzu | 🟨?+ | Jerimiah | 🖥️ |
 | 9 | Ge Hong | 🟨🟨 | Joshua | 🖥️ |
+
+## Gerunds
+# namingConvention: `swizzle`
+#### formal: `zelnbrae`
+### filter: `mancala`
+### informal: `kobkob`
+# diagonal: [ `shwimbom` ]
