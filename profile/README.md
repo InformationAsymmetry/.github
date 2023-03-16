@@ -22,9 +22,21 @@
 | 8 | Chung Tzu | 🟨?+ | Jerimiah | 🖥️ |
 | 9 | Ge Hong | 🟨🟨 | Joshua | 🖥️ |
 
-## Gerunds
-# formal: `zældanz`
-### diagonal: `mancala`
-## informal: [ `shwimbõm`, `|elefun_`]
-### namingConvention: `swizzle`
-### filter: `krunk`
+-----
+# Lexicon
+-----
+
+# 🌙: `zældanz`
+### 🟨: `mancala`
+## ⭐: [ `shwimbõm`, `funelle`, `saraiso`]
+### 🏆: `krunk`
+
+-----
+🖥️: `Sw[[{ih}, ö|), [ā], ê] zel+, zel?_ | ze+]%`
+> Swa iháhoo ehelzel zeze
+
+...
+``` 
+%^ The Swizzle ^%
+```
+* `Sw[i, ö, ā, ê]+[zel, ze]%`
