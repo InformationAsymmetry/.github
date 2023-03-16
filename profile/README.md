@@ -33,7 +33,7 @@
 
 -----
 🖥️: `Sw[[{ih}, ö|), [ā], ê] zel+, zel?_ | ze+]%`
-> Swa.. iháhoo ehelzel |zeze
+> Swa.. iháhOh ehelzel |zeze
 
 ...
 ``` 
