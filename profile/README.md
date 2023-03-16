@@ -1,6 +1,12 @@
 # InformationAsymmetry
 > 🖥️ - Welcome to InformationAsymmetry, your call will be answered in the order it was received in.
 
+## Gerunds
+* filter: `mancala`
+* informal: `bokbok`
+* formal: `zelnbrae`
+* namingConvention: `swizzle`
+
 ## Emojis
 * 🖥️: gotta keep the science flowing
 * 🌙: filter 
