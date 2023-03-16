@@ -27,4 +27,4 @@
 #### formal: `zelnbrae`
 ### filter: `mancala`
 ### informal: `kobkob`
-# diagonal: [ `shwimbom` ]
+# diagonal: [ `shwimbõm` ]
