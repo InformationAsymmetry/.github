@@ -12,8 +12,8 @@
 
 # ⭐: `swa sābõm`
 ### 🟨: `swapperckSāBrõm`
-## 🌙: [ `zældanz`, `swomzeih`, `zelSqö;rih` ]
-### 🏆: `zábunk-shöm`
+## 🌙: [ `zelSqö;rih`, `swihzeih` , `zældanz` ]
+### 🏆: `zá, swa, shöm`
 
 -----
 🌙[`swa sābõm`]
