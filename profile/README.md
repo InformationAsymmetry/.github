@@ -13,18 +13,23 @@
 # 🏆:  `swa sābõm` <-- e ā
 ## 🟨: `swapperckSāBrõm`, `zældanz-rih` <-- õ e e ê e e
 #### 🌙: [ `zelSq[ö`, `swAzæl`, `shwimSwa` ]
-### ⭐: `zá, swa, shöm` <-- ā e
+### ⭐: `shwim, swa, shöm` <-- ā e
 
 -----
-🖥️: `shwimSwa`
+## 🖥️: `shwimSwa`
 > Swa ehelzel, iháhêm.  
-> ...shwömBáh-iháhêm  
-> zá swa  
-> ..shwömBáh-shöm
-> .  
-> swa  
+
+...shwömBáh-iháhêm  
+
+> zá swa
+  
+..shwömBáh-shöm  
+
+> .swa
+
+..shwimSwa  
 -----
-🖥️: `swa sābõm`
+## 🖥️: `swa sābõm`
 
 `Sw[[{ih}, ö|), [ā], ê] + [ā[s | b]õm] | [zel+, zel?_ | ze+]]%`
 > Swa.. iháhOh. ehelzel sabön ..ze&
