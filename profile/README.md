@@ -10,9 +10,9 @@
 
 # Lexicon
 
-# ⭐: `zældanz`
+# ⭐: `swa sābõm`
 ### 🟨: `swapperckSāBrõm`
-## 🌙: [ `swa sābõm`, `swomzeih`, `zelSqö;rih`]
+## 🌙: [ `zældanz`, `swomzeih`, `zelSqö;rih`]
 ### 🏆: `záhunk-shöm`
 
 -----
