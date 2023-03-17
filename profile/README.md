@@ -12,11 +12,11 @@
 
 # ⭐: `swa sābõm`
 ### 🟨: `swapperckSāBrõm`
-## 🌙: [ `zelSqö;rih`, `swihzeih` , `zældanz` ]
+## 🌙: [ `zelSq[ö`, `swöhrih` , `zældanz` ]
 ### 🏆: `zá, swa, shöm`
 
 -----
-🌙[`swa sābõm`]
+⭐[`swa sābõm`]
 
 🖥️: `Sw[[{ih}, ö|), [ā], ê] + [ā[s | b]õm] | [zel+, zel?_ | ze+]]%`
 > Swa.. iháhOh. ehelzel sabön ..ze&
