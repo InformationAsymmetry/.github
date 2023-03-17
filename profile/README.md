@@ -12,12 +12,14 @@
 
 # 🏆:  `swa sābõm` <-- e ā
 ## 🟨: `swapperckSāBrõm`, `zældanz-rih` <-- õ e e ê e e
-#### 🌙: [ `zelSq[ö`, `swAzæl`, `shwimBOh-iháhêm` ]
+#### 🌙: [ `zelSq[ö`, `swAzæl`, `shwömBáh-iháhêm` ]
 ### ⭐: `zá, swa, shöm` <-- ā e
 
 -----
 🖥️: `shwimBömbom`
 > Swa ehelzel, iháhêm.
+> 
+> ...shwömBáh-iháhêm
 
 -----
 🖥️: `swa sābõm`
