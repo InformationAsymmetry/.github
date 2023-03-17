@@ -10,15 +10,19 @@
 
 # Lexicon
 
-# ⭐: `swa sābõm`
-### 🟨: `swapperckSāBrõm` <-- õ e e ê e e
-## 🌙: [ `zelSq[ö`, `swAzæl` , `zældanz-rih`, `shwimBêm-iháhOh` ]
-### 🏆: `zá, swa, shöm` <-- ā e
+# 🏆:  `swa sābõm` <-- e ā
+## 🟨: `swapperckSāBrõm`, `zældanz-rih` <-- õ e e ê e e
+#### 🌙: [ `zelSq[ö`, `swAzæl`, `shwimBêm-iháhOh` ]
+### ⭐: `zá, swa, shöm` <-- ā e
 
 -----
-⭐[`swa sābõm`]
+🖥️: `shwimBömbom`
+> Swa
 
-🖥️: `Sw[[{ih}, ö|), [ā], ê] + [ā[s | b]õm] | [zel+, zel?_ | ze+]]%`
+-----
+🖥️: `swa sābõm`
+
+`Sw[[{ih}, ö|), [ā], ê] + [ā[s | b]õm] | [zel+, zel?_ | ze+]]%`
 > Swa.. iháhOh. ehelzel sabön ..ze&
 
 ...
