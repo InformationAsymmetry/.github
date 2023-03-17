@@ -29,7 +29,7 @@
 # 🌙: `zældanz`
 ### 🟨: `mancala`
 ## ⭐: [ `swa sābõm`, `swomzeih`, `zelSqö;rih`]
-### 🏆: `krunk`
+### 🏆: `záhunk-shöm`
 
 -----
 🖥️: `Sw[[{ih}, ö|), [ā], ê] zel+, zel?_ | ze+]%`
