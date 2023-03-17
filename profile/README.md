@@ -11,7 +11,7 @@
 # Lexicon
 
 # 🏆:  `swa sābõm` <-- e ā
-## 🟨: `swapperckSāBrõm`, `zældanz-rih` <-- õ e e ê e e
+## 🟨: `swapperckShwāmBrõm`, `zældanz-rih` <-- õ e e ê e e
 #### 🌙: [ `zelSq[ö`, `swAzæl`, `shwimSwa` ]
 ### ⭐: `shwim, swa, shöm` <-- ā e
 
@@ -27,7 +27,7 @@
 
 > .swa
 
-..shwimSwa  
+..shwimSwa; swa sābõm   
 -----
 ## 🖥️: `swa sābõm`
 
