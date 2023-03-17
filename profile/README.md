@@ -11,7 +11,7 @@
 # Lexicon
 
 # ⭐: `zældanz`
-### 🟨: `mancala`
+### 🟨: `swapperckSāBrõm`
 ## 🌙: [ `swa sābõm`, `swomzeih`, `zelSqö;rih`]
 ### 🏆: `záhunk-shöm`
 
