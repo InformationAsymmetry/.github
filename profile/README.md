@@ -12,7 +12,7 @@
 
 # ⭐: `swa sābõm`
 ### 🟨: `swapperckSāBrõm`
-## 🌙: [ `zelSq[ö`, `swöhrih` , `zældanz` ]
+## 🌙: [ `zelSq[ö`, `swAzæl` , `zældanz-rih` ]
 ### 🏆: `zá, swa, shöm`
 
 -----
