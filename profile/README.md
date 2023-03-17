@@ -12,14 +12,14 @@
 
 # ⭐: `swa sābõm`
 ### 🟨: `swapperckSāBrõm`
-## 🌙: [ `zældanz`, `swomzeih`, `zelSqö;rih`]
-### 🏆: `záhunk-shöm`
+## 🌙: [ `zældanz`, `swomzeih`, `zelSqö;rih` ]
+### 🏆: `zábunk-shöm`
 
 -----
 🌙[`swa sābõm`]
 
-🖥️: `Sw[[{ih}, ö|), [ā], ê] zel+, zel?_ | ze+]%`
-> Swa.. iháhOh ehelzel |zeze
+🖥️: `Sw[[{ih}, ö|), [ā], ê] + [ā[s | b]õm] | [zel+, zel?_ | ze+]]%`
+> Swa.. iháhOh. ehelzel sabön ..ze&
 
 ...
 ``` 
