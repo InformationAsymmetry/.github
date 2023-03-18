@@ -9,13 +9,14 @@
 * 🏆: gold 
 
 # Lexicon
-# 🏆: `bettyJuhn`
-
-🌙 [Grandmaster Flash & the Furious Five - The Message](https://www.youtube.com/results?search_query=the+message)
+# 🏆🏆: `bettyJuhn`
+### [Grandmaster Flash & the Furious Five - The Message](https://www.youtube.com/results?search_query=the+message)
+🌙 `down`
 > +🖥️: `juhn`, `un`, `bē`, `tan`
 > 
 > -🖥️: `dun`, `pi`, `mae`, `an`, `ight`, `anteka`, `caw[s]`, `lews`, `chai`, `yu`, `plā`, `huṉ`
 -----
+🌙 `pu`
 > +🖥️: `betty`, `mi` , `thuh`, `ag-ag`, `hē`
 > 
 > -🖥️: `wuan`, `gla`, `noi`
