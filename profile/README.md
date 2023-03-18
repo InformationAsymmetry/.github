@@ -9,19 +9,41 @@
 * 🏆: gold 
 
 # Lexicon
-# 🏆🏆: `bettyJuhn`
+# 🏆: `bettyJün`
+# 🟨: `un... ag-ag`
+
 ### [Grandmaster Flash & the Furious Five - The Message](https://www.youtube.com/results?search_query=the+message)
 🌙 `down`
-> +🖥️: `juhn`, `un`, `bē`, `tan`
+> +🖥️: `jün`, `bē`, `un`, `tan`
 > 
-> -🖥️: `dun`, `pi`, `mae`, `an`, `ight`, `anteka`, `caw[s]`, `lews`, `chai`, `yu`, `plā`, `huṉ`
+> -🖥️: `dun`, `p`, `mae`, `an`, `ight`, `anteka`, `caw[s]`, `lews`, `chai`, `yu`, `plā`, `huṉ`
 -----
 🌙 `pu`
-> +🖥️: `betty`, `mi` , `thuh`, `ag-ag`, `hē`
+> +🖥️: `betty`, `mi`, `thuh`, `ag-ag`, `hē`
 > 
-> -🖥️: `wuan`, `gla`, `noi`
+> -🖥️: `ūwuan`, `gla`, `noi`
 -----
+## 🖥️: `bettyJün`
+gla  
+...gla-gla-noi  
 
+> tan  
+
+bettyJün  
+> ..un  
+
+ti  
+..tēn  
+> un }  
+
+dun  
+...  
+ūwee  
+.....
+
+ü
+...ünoi
+----
 # 🏆:  `swa sābõm` <-- e ā
 ## 🟨: `swapperckShwāmBrõm`, `zældanz-rih` <-- õ e e ê e e
 #### 🌙: [ `zelSq[ö`, `swAzæl`, `shwimSwa` ]
