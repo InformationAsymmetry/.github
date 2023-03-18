@@ -13,7 +13,10 @@
 > +🖥️: `jun`, `un`, `bē`, `tan`
 > 
 > -🖥️: `dun`, `pi`, `mae`, `an`, `ight`, `anteka`, `caw[s]`, `lews`, `chai`, `yu`, `plā`, `huṉ`
-
+-----
+> +🖥️: `betty`, `mi` , `thuh`, `ag-ag`, `hē`
+> 
+> -🖥️: `wuan`, `gla`, `noi`
 -----
 
 # 🏆:  `swa sābõm` <-- e ā
