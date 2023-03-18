@@ -9,8 +9,10 @@
 * 🏆: gold 
 
 # Lexicon
-
-# 🟨: `dun`
+🌙 [Grandmaster Flash & the Furious Five - The Message](https://www.youtube.com/results?search_query=the+message)
+> +🖥️: `jun`, `un`, `bē`, `tan`
+> 
+> -🖥️: `dun`, `pi`, `mae`, `an`, `ight`, `anteka`, `caw[s]`, `lews`, `chai`, `yu`, `plā`, `huṉ`
 
 -----
 
