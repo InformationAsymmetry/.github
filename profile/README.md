@@ -10,6 +10,10 @@
 
 # Lexicon
 
+# 🟨: `dun`
+
+-----
+
 # 🏆:  `swa sābõm` <-- e ā
 ## 🟨: `swapperckShwāmBrõm`, `zældanz-rih` <-- õ e e ê e e
 #### 🌙: [ `zelSq[ö`, `swAzæl`, `shwimSwa` ]
