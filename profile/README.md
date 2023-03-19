@@ -6,24 +6,23 @@
 * 🌙: filter 
 * 🟨: cipher
 * ⭐: interface
-* 🏆: gold 
+* 🏆 gold 
 
 # Lexicon
-# 🏆: `bettyJün`
-# 🟨: `un... ag-ag`
-
-### [Grandmaster Flash & the Furious Five - The Message](https://www.youtube.com/results?search_query=the+message)
-🌙 `down`
-> +🖥️: `jün`, `bē`, `un`, `tan`
+## ⭐ [down](https://www.youtube.com/watch?v=4kjeWGQ175g)
+### 🏆 `bettyJün`
+🟨 `swa`
+> +🖥️: `jun`, `bē`, `un`, `tan`
 > 
 > -🖥️: `dun`, `p`, `mae`, `an`, `ight`, `anteka`, `caw[s]`, `lews`, `chai`, `yu`, `plā`, `huṉ`
 -----
-🌙 `pu`
+🟨 `down`
 > +🖥️: `betty`, `mi`, `thuh`, `ag-ag`, `hē`
 > 
 > -🖥️: `ūwuan`, `gla`, `noi`
+
 -----
-## 🖥️: `bettyJün`
+## 🖥️ _un-agAg_
 gla  
 ...gla-gla-noi  
 
@@ -41,35 +40,21 @@ dun
 ūwee  
 .....
 
-ü
+ü  
 ...ünoi
 ----
-# 🏆:  `swa sābõm` <-- e ā
-## 🟨: `swapperckShwāmBrõm`, `zældanz-rih` <-- õ e e ê e e
-#### 🌙: [ `zelSq[ö`, `swAzæl`, `shwimSwa` ]
-### ⭐: `shwim, swa, shöm` <-- ā e
+### 🌙  
+_bettyTan p un thuh_  
+-> chai  
 
------
-## 🖥️: `shwimSwa`
-> Swa ehelzel, iháhêm.  
+_lews anteka mae an ight_  
+-> ag-ag  
 
-...shwömBáh-iháhêm  
-
-> zá swa
-  
-..shwömBáh-shöm  
-
-> .swa
-
-..shwimSwa; swa sābõm   
------
-## 🖥️: `swa sābõm`
-
-`Sw[[{ih}, ö|), [ā], ê] + [ā[s | b]õm] | [zel+, zel?_ | ze+]]%`
-> Swa.. iháhOh. ehelzel sabön ..ze&
-
+_bettyTan p un tan_  
+_lews anteka mae huṉ_  
+_thuh thuh mi hē jun_  
 ...
-``` 
-%^ The Swizzle ^%
-```
-* `Sw[i, ö, ā, ê]+[zel, ze]%... `
+--> noi  
+
+_bettyTan p un thuh_  
+-> tan
